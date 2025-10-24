@@ -5,7 +5,7 @@
 # Introduction to chillmin Layout
 
 ## Layout philosophy
-
+this work?
 - convinience is priority and minimal by design
 - primary **colemak mod-dh** layer for alpha
 - **coding friendly** symbol layer for nums and symbols
